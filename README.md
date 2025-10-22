@@ -22,7 +22,7 @@ A modern gym management application built with React and TypeScript.
 
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/dusharakalubowila/Gym-Application.git
 cd gym-application
 ```
 
